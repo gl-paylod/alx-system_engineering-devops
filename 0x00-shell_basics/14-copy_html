@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HED
 cp -u *.htm ..	
+=======
+cp -u *.htm ..
+>>>>>>> 2e7e13a060468325f0f8182e4ad1c513cfeb2993
